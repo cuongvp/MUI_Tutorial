@@ -1,9 +1,9 @@
 import './App.css';
-import MuiCheckbox from './components/MuiCheckbox';
+import MuiStack from './components/MuiStack';
 function App() {
   return (
     <div className="App">
-      <MuiCheckbox/>
+      <MuiStack/>
     </div>
   );
 }
