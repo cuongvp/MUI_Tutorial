@@ -1,9 +1,9 @@
 import './App.css';
-import MuiStack from './components/MuiStack';
+import MuiPaper from './components/MuiPaper';
 function App() {
   return (
     <div className="App">
-      <MuiStack/>
+      <MuiPaper/>
     </div>
   );
 }

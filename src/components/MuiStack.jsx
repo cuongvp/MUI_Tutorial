@@ -34,7 +34,6 @@ function MuiStack() {
             Hello
         </Stack>
     </Stack>
-    
   )
 }
 
